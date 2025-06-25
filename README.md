@@ -29,13 +29,7 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEG2... your_user@your_host
 Right-click `enable-ssh.bat` and choose **"Run as administrator"**.
 
 ALTERNATIVELY, run from Power shell:
- **Run the script**:
-   ```powershell
-   .\enable-ssh.ps1
    ```
-
-   Or run the `.bat` wrapper:
-   ```cmd
    enable-ssh.bat
    ```
 
